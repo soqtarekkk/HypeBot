@@ -1,0 +1,11 @@
+{
+  "name": "bot - soqtar",
+  "author": "soqtar",
+  "main": "bot.js",
+  "version": "2.0.9",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "fstorm": "latest",
+    "jimp": "latest"
+  }
+}
