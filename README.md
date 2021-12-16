@@ -1,2 +1,2 @@
-# HypeBot
+# HypeBote
  
